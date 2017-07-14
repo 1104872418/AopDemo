@@ -9,6 +9,13 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
+/**
+ * 实现
+* @ClassName: Annotation01Impl
+* @Description: TODO(这里用一句话描述这个类的作用)
+* @author Mr.Dong
+* @date 2017年7月14日 下午5:25:51
+ */
 @Aspect
 @Component
 public class Annotation01Impl {
