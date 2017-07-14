@@ -6,7 +6,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.annotation.Annotation01;
 
-
+/**
+ * 控制
+* @ClassName: UserController
+* @Description: TODO(这里用一句话描述这个类的作用)
+* @author Mr.Dong
+* @date 2017年7月14日 下午5:24:12
+ */
 @Controller
 public class UserController {
 
